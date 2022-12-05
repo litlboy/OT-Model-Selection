@@ -10,3 +10,5 @@ From the command line, write for instance
 ```console
 python Synth-XP/Lse/sinkhorn.py
 ```
+
+For a 1D toy experiment with the Sinkhorn model that reproduces the figure above, run the notebook 'Sinkhorn_selection_1D.ipynb'.
