@@ -7,6 +7,6 @@ Code for the article [on model selection for convex OT models](https://openrevie
 ## Reproduce the experiments
 
 From the command line, write for instance
-'''bash
+'''console
 python Synth-XP/Lse/sinkhorn.py
 '''
