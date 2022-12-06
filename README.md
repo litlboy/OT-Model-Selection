@@ -12,3 +12,4 @@ python Synth-XP/Lse/sinkhorn.py
 ```
 
 For a 1D toy experiment with the Sinkhorn model that reproduces the figure above, run the notebook 'Sinkhorn_selection_1D.ipynb'.
+Please note that in order to run the SSNB model, you need a MOSEK license.
