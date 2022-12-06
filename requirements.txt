@@ -1,0 +1,10 @@
+torch
+numpy
+scipy
+tqdm
+pykeops
+cvxpy
+mosek
+POT
+cvxopt
+sklearn
